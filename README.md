@@ -35,7 +35,7 @@ https://github.com/JuanDiegoMorales/network.git
     - Select the type of message.
     - Send the message.
 
-##Links
+## Links
 
-###demonstration video of operation:
+### demonstration video of operation:
 <https://www.youtube.com/watch?v=gfkgmsm5VeU>
